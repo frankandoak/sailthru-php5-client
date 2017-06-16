@@ -1,2 +1,4 @@
 *.swp
 phpunit.xml
+
+.idea
